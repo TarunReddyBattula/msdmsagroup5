@@ -19,7 +19,7 @@
         <div class="col-md-10 col-md-offset-">
         
             <div class="page-header">
-            <h1 style= "color: red ;font-size: 50px"></style>  Missouri Soccer Association </h1>
+            <h1 style= "color: white ;font-size: 50px"></style>  Missouri Soccer Association </h1>
                        
         </div>
         <div class="col-lg-8 col-md-8 wow bounceInRight">
